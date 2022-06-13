@@ -6,7 +6,7 @@ from os.path import exists
 from lxml import html
 from requests import get
 
-openai.api_key = "<0e396eb3-05e5-4352-b7bb-56da6ff55709>"
+openai.api_key = "<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>"
 
 WIKIPEDIA_LINK = "https://en.wikipedia.org/wiki/"
 TRAINING_DIRECTORY = "training_data/"
