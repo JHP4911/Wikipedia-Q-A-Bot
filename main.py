@@ -6,12 +6,12 @@ from os.path import exists
 from lxml import html
 from requests import get
 
-openai.api_key = "<YOUR-OPENAI-API-KEY>"
+openai.api_key = "<0e396eb3-05e5-4352-b7bb-56da6ff55709>"
 
 WIKIPEDIA_LINK = "https://en.wikipedia.org/wiki/"
 TRAINING_DIRECTORY = "training_data/"
 
-def main():
+def main():0e396eb3-05e5-4352-b7bb-56da6ff55709
 
     # Fetch Wikipedia page and confirm it's valid
     page_found = False
