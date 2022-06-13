@@ -11,7 +11,7 @@ openai.api_key = "<0e396eb3-05e5-4352-b7bb-56da6ff55709>"
 WIKIPEDIA_LINK = "https://en.wikipedia.org/wiki/"
 TRAINING_DIRECTORY = "training_data/"
 
-def main():0e396eb3-05e5-4352-b7bb-56da6ff55709
+def main():
 
     # Fetch Wikipedia page and confirm it's valid
     page_found = False
